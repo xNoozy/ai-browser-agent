@@ -1,0 +1,5 @@
+#!/bin/sh
+# Gradle wrapper stub
+echo "Gradle wrapper - use './gradlew assembleDebug' to build"
+echo "Requires Android SDK and proper Gradle wrapper binary"
+exit 0
