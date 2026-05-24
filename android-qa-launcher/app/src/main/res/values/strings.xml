@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QA Lab Launcher</string>
+    <string name="accessibility_service_description">QA Lab uses accessibility services to perform automated UI testing on target applications. This is only active during user-consented test sessions.</string>
+    <string name="notification_channel_monitoring">Monitoring Service</string>
+    <string name="notification_monitoring_title">QA Lab Monitoring Active</string>
+    <string name="notification_monitoring_text">Monitoring app performance metrics</string>
+</resources>
