@@ -129,7 +129,7 @@ class MonkeyTestPlugin(private val context: Context) : TestPlugin {
                 }
             }
             else -> {
-                service.performAction(android.accessibilityservice.AccessibilityService.GLOBAL_ACTION_BACK)
+                service.performGlobalAction(android.accessibilityservice.AccessibilityService.GLOBAL_ACTION_BACK)
                 "Back button"
             }
         }

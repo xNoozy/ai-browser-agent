@@ -74,7 +74,7 @@ fun PluginScreen(
                     .padding(horizontal = 16.dp)
             ) {
                 LinearProgressIndicator(
-                    progress = { uiState.progress },
+                    progress = uiState.progress,
                     modifier = Modifier.fillMaxWidth()
                 )
                 Text(
